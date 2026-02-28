@@ -1,4 +1,4 @@
-# 🏦 ATM-Machine-Project 
+# ATM-Machine-Project 
 A simple **ATM Machine Simulation** built using **Java**.  
 This is a console-based application that allows users to perform basic banking operations such as withdrawing money, depositing money, checking balance, and exiting the system.
 
